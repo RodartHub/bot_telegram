@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "carbon-gecko-367717",
+    "private_key_id": "24683576900536883d1de78e04d1e20365322687",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvb3A+FnhOYtqD\nWixifefzs2ZMjzvDkyQtOq4mQgRKR2Dlu9g4iHPIGaDFDAraiXbFz/J4PCRLgCRt\nfvrIhu/d633rCN8mFDiB5pxou1rHzfyODrjimEI5GvA9QYH53L7h6hwm35Am8aEX\nktZKlfHEZd4Mh0Rk2twlAtLyjZO8bjKJB03pO9MO+ObFZ2YObbtHB6OUb1/P33ak\nwZ1Zh5VmbRtvKWbQQAOZuCmAElGFfa/BxWLvC3Zd1NCC+J6PFLvU4iTRMtZnvDgp\nljCl7QMmvosJfBRPgpZhLQ/XyPB0DwXsyCFn6IkGPAOkBzAAILI1VEpyJvinqBIY\nQyzC0UKlAgMBAAECggEADeUi6/v+H+FDAuPVv6BOypXTPK2ck284To/HAtc4PUTd\nhxyjccjW+MqU2f6L7oa0PlMr1nuW+VbnK7gCt3a+kWJpSQAdIog3+IvyJ/Zs6IXn\nYr4GRUY/eoPocsWZPJfQE5cmDysmYPtC4dnauLIbIc3asj3VfDJ8fL72Q8lUYfhr\n0GyYyg17pvcoZC6FFB4Ypiq7GScFAOanJbN56xgR+MGa9DTFOmbAmqlO6RRN4HsZ\n2gniYbEVbRb2CAdf/P7njztQKOe1MW2swXuqewQWcIezk2pq4Uu1+10UkeXV43wv\nJ2KWhSFRS/XCzAZm9bjuIj4A79hEe/+rTENBWONQGQKBgQDfjNG71+AwGEO1J5oY\nannB+hRLIWZ9MjCiyXdnahtsAzpfFUQyEGoFUaA97lDMSGzmcuciSuWbJr3kYrhK\nnEy8SY8L0LYhDQVipPxK/fqKiCsWeKsmEN92188T+xBG2vZ6iymptYnTf16GZAPb\n15kdxum5d2KAv3UNmNSHm+ZkWQKBgQDI5qlV0WDg/yA/JmGwl1sZFfETe7JV/PiL\nRFgy7GCt9tROG+QTMSVoex4kouunJ9XFz9lckGXEa+cjnBtjNNxp0aJoO8++XE+s\n4lKPRy5PHLN7g4mW1FbKA793Er35ijK2oVbDXYA2WGqpwhr6SzsIQnd6m9gLPshd\nMCmU24a3LQKBgCIFlm3WHuJy7usFCeipW7pvyuLcRHLNTqWXr7pnZaD8pMePvv83\njEse7xo9yMIuS5SO7CpF58fDD6dQduez/eGx+Dk+HFnPV4B5x4PKP3UR4CzdVH7I\nlpnJolRSI1oFPPnNcBvJ6x3rBoHBeuzcVQs5GJ0HVFBv0uqs1buFuHyRAoGALAEy\nKCUDlmTrmEl87mRIxPbkZkMa7fDKNB8VPpo+FvzQxgcf7wA91GPbV2UEPwnfrkN3\ntem/EMYdy9P+v70tZlRPwYsQVv77SMAOG2oY/6UmvzAxrAL4u6kUgC1vxT/7Gbu/\nOG27jqvROTvWEur1lDqS1x1ZtiTbWGYbRYrMOEUCgYEAmO1C/ctEf7laLMzDC/tZ\n2YIcbc5r5NORwyH+3N1WTzE0b/GbJoHQtI+c6VuZzlWGcb+Aw9YT1mcKMGSfPCM5\nBudVgnixIv4BN6oyAakRO5ppcQmmQHTuwsRZRy0uobhHjaTGn+V+9ASxL8PkM5Qs\nDQTtEgJu2c6n1dV1fTn1HIo=\n-----END PRIVATE KEY-----\n",
+    "client_email": "chatbot@carbon-gecko-367717.iam.gserviceaccount.com",
+    "client_id": "106344661404609990103",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot%40carbon-gecko-367717.iam.gserviceaccount.com"
+}
